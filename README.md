@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-A simple implementation of the classic game "Rock, Paper, Scissors" in Python.
+A simple OOPS implementation of the classic game "Rock, Paper, Scissors" in Python.
 
 ## Introduction
 
